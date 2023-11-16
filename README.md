@@ -4,5 +4,5 @@ Here, the HTML tags like paragraph, section, article, img tags and more are used
 Youtube videos are also embedded in the webpage using <iframe> tag. 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/rkaur9603/Favourite_Recipes-webpage/blob/c6239adeb2d5518b3203933aaa2c5cd6302236e0/Screenshot%202023-11-16%20203427.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/rkaur9603/Favourite_Recipes-webpage/blob/c6239adeb2d5518b3203933aaa2c5cd6302236e0/Screenshot%202023-11-16%20203427.png" alt="Image 1" width="700" height="400">
 </div>
