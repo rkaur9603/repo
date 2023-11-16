@@ -1,0 +1,17 @@
+body {
+  background-image: url('images/bg_img.jpg');
+  background-position: center center;
+  background-size: cover;
+}
+
+body {
+  margin: 20px;
+}
+img {
+  float:inline-start; 
+  margin-right: 20px;
+}
+iframe {
+  margin: 0 auto; 
+  display:block; 
+}
